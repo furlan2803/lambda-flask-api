@@ -82,3 +82,20 @@ Certifique-se de que as credenciais de usuário e senha sejam corretas e corresp
 
 Quando a função Lambda é acionada com sucesso e a autenticação é bem-sucedida, a função retornará o JSON fornecido no corpo da solicitação, formatado de maneira legível. Em caso de erros na solicitação ou autenticação, a função responderá com o código de status e uma mensagem de erro correspondente.
 
+
+<br>
+
+<img src="./assets/lambda-flask-api-Visual-Studio-Code-2023-11-07-23-57-41.gif" alt="Resultados esperados">
+
+<br>
+
+## 11. Contribuição
+
+Esta atividade foi realizada em conjunto com a colaboração dos seguintes alunos:
+
+- [Lucas Vieira](mailto:Lucas.Vieira@sou.inteli.edu.br)
+- [Dayllan Alho](mailto:Dayllan.Alho@sou.inteli.edu.br)
+- [Izabella Faria](mailto:Izabella.Faria@sou.inteli.edu.br)
+- [Pedro Rezende](mailto:Pedro.Rezende@sou.inteli.edu.br)
+
+
